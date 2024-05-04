@@ -1,3 +1,3 @@
-# Shopify w/ Vite
+# Dawn Theme customization - Goldbeck Design
 
-Boilerplate with folder structure for theme customization with Shopify.
+This is a theme customization for Goldbeck Design based on the Dawn theme. 
